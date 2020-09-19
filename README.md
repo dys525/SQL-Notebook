@@ -2,7 +2,7 @@
 
 Personal practice & manipulation with SQL using Oracle SQL Developer
 
-Things I've covered:
+Things I mainly covered:
 
 SELECT, INSERT, UPDATE, DELETE, MERGE  =>>  DML(데이터 조작어)
 
